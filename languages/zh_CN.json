@@ -62,7 +62,7 @@
     },
     "downloadpage": {
         "type": {
-            "install": "安装",
+            "install": "已安装",
             "not_install": "未安装"
         },
         "table": {
