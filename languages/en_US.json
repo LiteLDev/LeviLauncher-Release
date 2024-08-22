@@ -1,0 +1,193 @@
+{
+    "app": {
+        "settings": "Settings",
+        "lang": "Language"
+    },
+    "launcherpage": {
+        "launch_button": "Launch",
+        "delete": {
+            "failed": {
+                "title": "Delete Failed",
+                "content": "Please try again later.",
+                "close_button": "Close"
+            },
+            "complete": {
+                "title": "Delete Complete",
+                "content": "The selected version has been deleted successfully!",
+                "close_button": "Close"
+            },
+            "confirm": {
+                "title": "Confirm Delete",
+                "content": "Are you sure you want to delete this version? This operation cannot be undone.",
+                "delete_button": "Delete",
+                "cancel_button": "Cancel"
+            }
+        },
+        "launch": {
+            "failed": {
+                "title": "Launch Error",
+                "content": "You did not select any version, please go to the download page to download it!",
+                "download_button": "Download Page",
+                "close_button": "Close"
+            }
+        },
+        "deleting": {
+            "title": "Deleting"
+        },
+        "registering": {
+            "title": "Registering"
+        },
+        "startup": {
+            "title": "Successful startup",
+            "content": "The selected version has been started successfully!",
+            "close_button": "Close"
+        },
+        "register": {
+            "failed": {
+                "title": "Registration Failed",
+                "content": "Failed to register APPX, suggest to reinstall.",
+                "close_button": "Close",
+                "delete_button": "Delete"
+            }
+        },
+        "currentVersion": "Current Version",
+        "unregisteredVersion": "Unregistered Version"
+    },
+    "moddedcard": {
+        "title": "Mods",
+        "content": {
+            "none": "0 mods found",
+            "found": "{{count}} mods found"
+        }
+    },
+    "downloadpage": {
+        "type": {
+            "install": "Install",
+            "not_install": "Not Install"
+        },
+        "table": {
+            "header": {
+                "version": "VERSION",
+                "type": "TYPE",
+                "status": "STATUS",
+                "actions": "ACTION"
+            }
+        },
+        "topcontent": {
+            "rowperpage": "Row per page: ",
+            "types": "Types",
+            "input": {
+                "placeholder": "Search by verison..."
+            }
+        },
+        "bottomcontent": {
+            "total": "Total {{count}} verions"
+        }
+    },
+    "settingscard": {
+        "header": {
+            "title": "Settings",
+            "content": "Your Launcher Settings"
+        },
+        "body": {
+            "mcpath": {
+                "name": "MC Path",
+                "button": "Edit",
+                "error": "No Permission"
+            }
+        },
+        "footer": {
+            "cancel_button": "Cancel",
+            "save_button": "Save"
+        }
+    },
+    "downloadmodal": {
+        "download_button": "Download",
+        "information": {
+            "title": "Information Confirmation",
+            "spinner": {
+                "label": "Trying to get the download url now.."
+            },
+            "table": {
+                "version": "VERSION",
+                "type": "TYPE",
+                "size": "FILESIZE"
+            },
+            "input": {
+                "label": "Version Name",
+                "placeholder": "Enter your vserion name",
+                "errormessage": "Does not comply with naming rules or already exists!"
+            },
+            "switch": {
+                "label": "Enable Modded",
+                "description": "This will enable you to mod and auto install Preloader, as well as modify the original file(Minecraft.Windows.exe)."
+            },
+            "close_button": "Close",
+            "download_button": "Download"
+        },
+        "downloading": {
+            "title": "Downloading",
+            "body": {
+                "file_name": " File: {{name}}",
+                "estimated_time_remaining": "Estimated time remaining: "
+            },
+            "footer": {
+                "close_button": "Close"
+            }
+        },
+        "installing": {
+            "title": "Installing"
+        },
+        "installcomplete": {
+            "title": "Install Complete",
+            "content": "Your installation was successful!",
+            "close_button": "Close"
+        },
+        "stopdownload": {
+            "title": "Confirmation of stopping download",
+            "content": "Are you going to stop the download? This operation will be irreversible!",
+            "cancel_button": "Cancel",
+            "stop_button": "Stop"
+        },
+        "downloadfailed": {
+            "title": "Download Failed",
+            "content": "An error occurred while trying to download the file. Please try again later.",
+            "close_button": "Close"
+        },
+        "installfailed": {
+            "title": "Install Failed",
+            "content": "Please try again later.",
+            "close_button": "Close"
+        }
+    },
+    "mcpathform": {
+        "title": "Welcome to LeviLauncher 👋",
+        "content": "Now you can proceed with the first step, setting up your MC installation directory.",
+        "input": {
+            "label": "MC Path",
+            "error": "No permission!"
+        }
+    },
+    "startform": {
+        "title": " Welcome to our launcher!",
+        "content": "You have successfully completed all the settings. Now you can fully enjoy the game. Thank you for your support and trust. Have a great time playing!🎉"
+    },
+    "multistepsidebar": {
+        "title": "Welcome to LeviLauncher",
+        "content": "Here, you will configure the basic settings for the launcher.",
+        "back_button": "Back",
+        "steps": {
+            "1": {
+                "title": "Select minecraft path",
+                "description": "Please select your minecraft installation directory."
+            },
+            "2": {
+                "title": "Welcome"
+            }
+        }
+    },
+    "aboutcard": {
+        "title": "About",
+        "description": "© 2024 {{name}}. All rights reserved."
+    }
+}

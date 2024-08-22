@@ -1,0 +1,193 @@
+{
+    "app": {
+        "settings": "设置",
+        "lang": "语言"
+    },
+    "launcherpage": {
+        "launch_button": "启动",
+        "delete": {
+            "failed": {
+                "title": "删除失败",
+                "content": "请稍后再试。",
+                "close_button": "关闭"
+            },
+            "complete": {
+                "title": "删除完成",
+                "content": "所选版本已成功删除！",
+                "close_button": "关闭"
+            },
+            "confirm": {
+                "title": "确认删除",
+                "content": "您确定要删除此版本吗？此操作无法撤销。",
+                "delete_button": "删除",
+                "cancel_button": "取消"
+            }
+        },
+        "launch": {
+            "failed": {
+                "title": "启动错误",
+                "content": "您没有选择任何版本，请前往下载页面进行下载！",
+                "download_button": "下载页面",
+                "close_button": "关闭"
+            }
+        },
+        "deleting": {
+            "title": "正在删除"
+        },
+        "registering": {
+            "title": "正在注册"
+        },
+        "startup": {
+            "title": "启动成功",
+            "content": "所选版本已成功启动！",
+            "close_button": "关闭"
+        },
+        "register": {
+            "failed": {
+                "title": "注册失败",
+                "content": "注册APPX失败，建议重新安装。",
+                "close_button": "关闭",
+                "delete_button": "删除"
+            }
+        },
+        "currentVersion": "当前版本",
+        "unregisteredVersion": "未注册版本"
+    },
+    "moddedcard": {
+        "title": "模组",
+        "content": {
+            "none": "未找到模组",
+            "found": "找到 {{count}} 个模组"
+        }
+    },
+    "downloadpage": {
+        "type": {
+            "install": "安装",
+            "not_install": "未安装"
+        },
+        "table": {
+            "header": {
+                "version": "版本",
+                "type": "类型",
+                "status": "状态",
+                "actions": "操作"
+            }
+        },
+        "topcontent": {
+            "rowperpage": "每页行数：",
+            "types": "类型",
+            "input": {
+                "placeholder": "按版本搜索..."
+            }
+        },
+        "bottomcontent": {
+            "total": "共 {{count}} 个版本"
+        }
+    },
+    "settingscard": {
+        "header": {
+            "title": "设置",
+            "content": "您的启动器设置"
+        },
+        "body": {
+            "mcpath": {
+                "name": "MC 路径",
+                "button": "编辑",
+                "error": "无权限"
+            }
+        },
+        "footer": {
+            "cancel_button": "取消",
+            "save_button": "保存"
+        }
+    },
+    "downloadmodal": {
+        "download_button": "下载",
+        "information": {
+            "title": "信息确认",
+            "spinner": {
+                "label": "正在尝试获取下载链接..."
+            },
+            "table": {
+                "version": "版本",
+                "type": "类型",
+                "size": "文件大小"
+            },
+            "input": {
+                "label": "版本名称",
+                "placeholder": "输入您的版本名称",
+                "errormessage": "不符合命名规则或已存在！"
+            },
+            "switch": {
+                "label": "启用模组",
+                "description": "这将启用您进行模组化，并自动安装预加载器，以及修改原始文件（Minecraft.Windows.exe）。"
+            },
+            "close_button": "关闭",
+            "download_button": "下载"
+        },
+        "downloading": {
+            "title": "正在下载",
+            "body": {
+                "file_name": " 文件：{{name}}",
+                "estimated_time_remaining": "预计剩余时间："
+            },
+            "footer": {
+                "close_button": "关闭"
+            }
+        },
+        "installing": {
+            "title": "正在安装"
+        },
+        "installcomplete": {
+            "title": "安装完成",
+            "content": "您的安装已成功！",
+            "close_button": "关闭"
+        },
+        "stopdownload": {
+            "title": "确认停止下载",
+            "content": "您确定要停止下载吗？此操作将不可逆！",
+            "cancel_button": "取消",
+            "stop_button": "停止"
+        },
+        "downloadfailed": {
+            "title": "下载失败",
+            "content": "下载文件时发生错误。请稍后再试。",
+            "close_button": "关闭"
+        },
+        "installfailed": {
+            "title": "安装失败",
+            "content": "请稍后再试。",
+            "close_button": "关闭"
+        }
+    },
+    "mcpathform": {
+        "title": "欢迎使用 LeviLauncher 👋",
+        "content": "现在您可以进行第一步，设置您的 MC 安装目录。",
+        "input": {
+            "label": "MC 路径",
+            "error": "无权限！"
+        }
+    },
+    "startform": {
+        "title": "欢迎使用我们的启动器！",
+        "content": "您已成功完成所有设置。现在您可以尽情享受游戏了。感谢您的支持和信任。祝您游戏愉快！🎉"
+    },
+    "multistepsidebar": {
+        "title": "欢迎使用 LeviLauncher",
+        "content": "在这里，您将配置启动器的基本设置。",
+        "back_button": "返回",
+        "steps": {
+            "1": {
+                "title": "选择 Minecraft 路径",
+                "description": "请选择您的 Minecraft 安装目录。"
+            },
+            "2": {
+                "title": "欢迎"
+            }
+        }
+    },
+    "aboutcard": {
+        "title": "关于",
+        "description": "© 2024 {{name}}。保留所有权利。"
+    }
+}
