@@ -188,6 +188,7 @@
     },
     "aboutcard": {
         "title": "About",
-        "description": "© 2024 {{name}}. All rights reserved."
+        "description": "© 2024 {{name}}. All rights reserved.",
+        "font": "This software uses the {{name}} font."
     }
 }
