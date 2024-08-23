@@ -21,6 +21,9 @@
                 "content": "Are you sure you want to delete this version? This operation cannot be undone.",
                 "delete_button": "Delete",
                 "cancel_button": "Cancel"
+            },
+            "deleting": {
+                "title": "Deleting..."
             }
         },
         "launch": {

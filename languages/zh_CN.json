@@ -21,6 +21,9 @@
                 "content": "您确定要删除此版本吗？此操作无法撤销。",
                 "delete_button": "删除",
                 "cancel_button": "取消"
+            },
+            "deleting": {
+                "title": "正在删除中..."
             }
         },
         "launch": {
