@@ -102,6 +102,44 @@
         "footer": {
             "cancel_button": "取消",
             "save_button": "保存"
+        },
+        "modal": {
+            "-2": {
+                "header": {
+                    "title": "您当前已经是最新版本！"
+                },
+                "footer": {
+                    "close_button": "关闭"
+                }
+            },
+            "1": {
+                "header": {
+                    "title": "正在检查更新中..."
+                },
+                "body": {
+                    "content": "正在检查更新..."
+                },
+                "footer": {
+                    "cancel_button": "取消"
+                }
+            },
+            "2": {
+                "header": {
+                    "title": "检测到新版本"
+                },
+                "body": {
+                    "content": "发现新的版本 ({{version}}) 可用！"
+                },
+                "footer": {
+                    "download_button": "更新",
+                    "close_button": "关闭"
+                }
+            },
+            "3": {
+                "header": {
+                    "title": "更新中..."
+                }
+            }
         }
     },
     "downloadmodal": {

@@ -102,6 +102,44 @@
         "footer": {
             "cancel_button": "Cancel",
             "save_button": "Save"
+        },
+        "modal": {
+            "-2": {
+                "header": {
+                    "title": "You are already on the latest version!"
+                },
+                "footer": {
+                    "close_button": "Close"
+                }
+            },
+            "1": {
+                "header": {
+                    "title": "Checking for updates..."
+                },
+                "body": {
+                    "content": "Checking for updates..."
+                },
+                "footer": {
+                    "cancel_button": "Cancel"
+                }
+            },
+            "2": {
+                "header": {
+                    "title": "New version detected"
+                },
+                "body": {
+                    "content": "A new version ({{version}}) is available!"
+                },
+                "footer": {
+                    "download_button": "Update",
+                    "close_button": "Close"
+                }
+            },
+            "3": {
+                "header": {
+                    "title": "Updating..."
+                }
+            }
         }
     },
     "downloadmodal": {
