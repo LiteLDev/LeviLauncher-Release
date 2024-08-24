@@ -97,6 +97,11 @@
                 "name": "MC Path",
                 "button": "Edit",
                 "error": "No Permission"
+            },
+            "version": {
+                "name": "Current Version",
+                "hasnew": "New version available!",
+                "button": "Check Update"
             }
         },
         "footer": {

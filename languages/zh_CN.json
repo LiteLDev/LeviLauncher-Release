@@ -97,6 +97,11 @@
                 "name": "MC 路径",
                 "button": "编辑",
                 "error": "无权限"
+            },
+            "version": {
+                "name": "当前版本",
+                "hasnew": "有新的版本更新！",
+                "button": "检查更新"
             }
         },
         "footer": {
