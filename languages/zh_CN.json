@@ -99,7 +99,7 @@
                 "error": "无权限"
             },
             "proxyurl": {
-                "proxyurl": "代理地址"
+                "name": "代理地址"
             },
             "version": {
                 "name": "当前版本",

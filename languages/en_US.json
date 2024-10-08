@@ -99,7 +99,7 @@
                 "error": "No Permission"
             },
             "proxyurl": {
-                "proxyurl": "Proxy URL"
+                "name": "Proxy URL"
             },
             "version": {
                 "name": "Current Version",
