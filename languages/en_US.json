@@ -98,6 +98,9 @@
                 "button": "Edit",
                 "error": "No Permission"
             },
+            "proxyurl": {
+                "proxyurl": "Proxy URL"
+            },
             "version": {
                 "name": "Current Version",
                 "hasnew": "New version available!",
